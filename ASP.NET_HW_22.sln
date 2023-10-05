@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET_HW_22", "ASP.NET_HW_22.csproj", "{EAB1FC45-8B83-422B-A883-F981ED9F0904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB1FC45-8B83-422B-A883-F981ED9F0904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB1FC45-8B83-422B-A883-F981ED9F0904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB1FC45-8B83-422B-A883-F981ED9F0904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB1FC45-8B83-422B-A883-F981ED9F0904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
